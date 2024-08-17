@@ -1,0 +1,11 @@
+{
+  "name": "desapangarengan",
+  "version": "1.0.0",
+  "description": "----------------------- # README ----------------------- Desa Pangarengan uses Browny Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,7 +1,7 @@
 -----------------------
 # README
 -----------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+Desa Pangarengan uses Browny Template
 
 
 Template Info:
